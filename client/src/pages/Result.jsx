@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { assets } from '../assets/assets'
-import { AppContext } from '../context/Appcontext'
+import { AppContext } from '../context/AppContext'
 
 const Result = () => {
   const { resultImage, image } = useContext(AppContext)

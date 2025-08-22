@@ -1,7 +1,7 @@
 import React from 'react'
 import { assets } from '../assets/assets'
 import { useContext } from 'react'
-import { AppContext } from '../context/Appcontext'
+import { AppContext } from '../context/AppContext'
 
 const Upload = () => {
 
