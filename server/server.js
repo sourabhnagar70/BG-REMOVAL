@@ -23,5 +23,5 @@ app.use('/api/user', userRouter);
 app.use('/api/image', imageRouter);
 
 // Start server
-
 app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+
